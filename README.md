@@ -1,3 +1,3 @@
 ## About
 
-ResNet model with 9 layers is used to predict wether the leaf of a plant is deseased or healthy.
+[The dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) was used to train a ResNet model with 9 layers and Learning Rate Scheduler in PyTorch and for class prediction. This dataset consists of about 87K rgb images of healthy and diseased crop leaves, categorized into 38 different classes.
